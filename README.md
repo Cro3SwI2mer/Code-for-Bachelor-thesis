@@ -1,3 +1,3 @@
 # Code-for-Bachelor-thesis
 
-This repository concists of Jupyter notebook, in which analysis of several Russian ETF is performed
+This repository consists of Jupyter notebook, in which analysis of several Russian ETF is performed
